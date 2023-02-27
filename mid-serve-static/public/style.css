@@ -1,0 +1,27 @@
+/*Silva, Cheena Maxine G.
+WD201*/
+nav{
+    background-color: purple;
+    border: 10px solid;
+    border-color: plum;
+
+}
+a{
+    color: white;
+    letter-spacing: left;
+    font-size: 25px;
+    padding: 15px;
+}
+h1{
+    color: plum;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: gray;
+}
+h2{
+    color: gray;
+}
